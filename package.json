@@ -1,0 +1,21 @@
+{
+  "name": "cronnew",
+  "version": "1.0.0",
+  "description": "gatherer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "moh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.4",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
