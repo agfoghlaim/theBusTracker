@@ -10,7 +10,7 @@
   "author": "moh",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mongoose": "^5.6.4",
     "node-cron": "^2.0.3"
   },
